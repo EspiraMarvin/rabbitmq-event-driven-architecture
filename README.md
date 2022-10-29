@@ -27,3 +27,5 @@ rabbitmq login,if you're using the first time
 Install `amqplib` for node, to enable connection and messageing to RabbitMQ
 
 > yarn add amqplib
+
+The 1st port on your docker-compose yaml `5672` is the one we will use to connect to RabbitMQ server
