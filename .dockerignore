@@ -1,0 +1,5 @@
+notifications-api/node_modules
+orders-api/node_modules
+
+.vscode
+.idea
